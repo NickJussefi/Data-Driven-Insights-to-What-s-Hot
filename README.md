@@ -1,6 +1,6 @@
 1. Identifying the Business Problem through reading the client brief
 
-2. Storing the smaple data from databease to excel
+2. Storing the sample data from databease to excel
 
 3. Data cleaning process
         - removing rows with missing data
